@@ -1,0 +1,1 @@
+package com.nichmihai.mssc_brewery_client.web.client;
